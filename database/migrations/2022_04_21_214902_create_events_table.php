@@ -1,8 +1,9 @@
 <?php
 
-use Illuminate\Database\Migrations\Migration;
-use Illuminate\Database\Schema\Blueprint;
+use App\Models\User;
 use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
 
 class CreateEventsTable extends Migration
 {
@@ -18,9 +19,9 @@ class CreateEventsTable extends Migration
             $table->string('title');
             $table->string('slug');
             $table->text('content');
-            $table->boolean('premium');
+            $table->boolean('premium')->default(false);
             $table->timestamps('start_at');
-            $table->timestamps('ends_at');
+            $table->timestamps('end_at');
 
 
             $table->foreignIdFor(User::class);
