@@ -1,7 +1,6 @@
-
 # <h1 align="center">  :sunny::sunny: Event APP :sunny::sunny: </h1>
 
-<p align="center"> AN app when you can create event and make a paiement to post it.</p>
+<p align="center"> Yeeeesssss you can create... events and make a paiement with credit card to post and share it.</p>
  
 
 <h2 align="center">   :sunny::sunny: Purpose :sunny::sunny:  </h2>
@@ -9,7 +8,7 @@
 ```python
 
     -LEARN STripe
-    -Perfect my Laravel skills
+    -Add new Laravel skills
     -JUST FOR FUN 
     
 
@@ -26,18 +25,3 @@
   
 <p align="center"> <img src="https://miro.medium.com/max/1200/1*9H4FGP7RLSd3Wmgop4Ecsg.jpeg" alt="php" width="180" height="90"/> </p>
  
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
